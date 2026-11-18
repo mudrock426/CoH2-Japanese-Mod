@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/35029847/README.1.md)
 # Company of Heroes 2 日本語化 MOD（非公式）
 
 Company of Heroes 2（Steam／Windows 64-bit版）向けの**非公式・ファンメイド**の日本語化パッチャーです。  
